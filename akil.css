@@ -1,0 +1,16 @@
+.body {
+    font-size: 20px;
+    font-family: arial, sans-serif;
+    background-color: aqua;
+    text-align: center;
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.h1 {
+    font-style: italic;
+    color: blueviolet;
+}
+
